@@ -1,6 +1,6 @@
 
 /*
- * Copyright (c) 2015, Stuart Wheater, Newcastle upon Tyne, England. All rights reserved.
+ * Copyright (c) 2015-2016, Stuart Wheater, Newcastle upon Tyne, England. All rights reserved.
  */
 
 package com.nishnosh.talos.tests.engine;
